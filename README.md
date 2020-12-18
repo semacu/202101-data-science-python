@@ -13,10 +13,10 @@ Gabriella Rustici, Sergio Martínez Cuesta, Leo Souliotis and Daniel Roythorne
 
 ### Course structure and links
 
-Week | Title | Activity | Date | Time | Materials | Instructor |
+Week | Title | Activity | Date and Time | Materials | Instructor |
 :---:|:-----:|:--------:|:----:|:----:|:---------:|:----:|
-0 | Getting ready | preparation | before start | before start | [Introduction and installations](notebooks/week0_materials.ipynb) | -
-1 | Basic Python concepts and functions | Lecture | 18/01/2021 | 4-5pm GMT | Under construction | SMC
+0 | Getting ready | preparation | before start | [Introduction and installations](notebooks/week0_materials.ipynb) | -
+1 | Basic Python concepts and functions | Lecture | 18/01/2021 and 4-5pm GMT | Under construction | SMC
 
 
 ### Obtaining Course Materials
