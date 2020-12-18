@@ -1,7 +1,7 @@
+<img align="right" src=img/course_logo.png width="200">
+
 
 ## Data Science in Python course
-
-<img align="right" src=img/course_logo.png width="200">
 
 
 ### Venue
