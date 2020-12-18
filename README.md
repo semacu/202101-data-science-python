@@ -1,9 +1,10 @@
 
 ## Data Science in Python course
 
-### Venue
-
 <img align="right" src=img/course_logo.png width="200">
+
+
+### Venue
 
 Online training event run by the Data Science Academy, AstraZeneca, Cambridge (UK)
 
