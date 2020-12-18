@@ -3,7 +3,7 @@
 
 ### Venue
 
-<img align="right" src=img/course_logo.png width="125">
+<img align="right" src=img/course_logo.png width="200">
 
 Online training event run by the Data Science Academy, AstraZeneca, Cambridge (UK)
 
