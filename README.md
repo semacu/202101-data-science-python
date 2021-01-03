@@ -34,25 +34,6 @@ Week | Title | Activity | Date and Time | Materials | Trainer
 6 | Introduction to machine learning - part 2 | Recap | Fri 26/02/2021 3-4pm GMT | Under construction | DR
 
 
-### Obtaining Course Materials
-
-The course materials will be updated throughout the course, so we recommend downloading the most recent version of the materials before each lecture or recap session. The latest notebooks and other materials for this course can be obtained as follows:
-
-1. Go to the github page for the course: https://github.com/semacu/202101-data-science-python
-
-2. Click on the green **Code** button (right, above the list of folders and files). This will cause a drop-down menu to appear
-
-3. Click on the **Download ZIP** option. A zip file containing the course content will be downloaded to your computer
-
-4. Move the zip file to wherever in your directories is preferred e.g. home
-
-5. Decompress the zip file to get a folder containing the course materials. Depending on your operating system, you may need to double-click the zip file, or issue a command on the terminal. On Windows 10, you can right click, click **Extract All...**, click **Extract**, and the folder will be decompressed in the same location as the zip file
-
-6. Launch Jupyter Notebook. Depending on your operating system, you may be able to search for \"Jupyter\" in the system menu and click the icon that appears, or you may need to issue a command on the terminal. On Windows, you can hit the Windows key, search for \"Jupyter\", and click the icon that appears
-
-7. After launching, the Jupyter notebook home menu will open in your browser. Navigate to the course materials that you decompressed in step 5, and click on the lecture or recap notebook of week to launch it.
-
-
 ### References
 
 - Data Science in Python by Data Science Academy at AstraZeneca - [June-July 2020 course](https://github.com/semacu/data-science-python)
