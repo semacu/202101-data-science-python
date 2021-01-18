@@ -19,8 +19,8 @@ Gabriella Rustici, Sergio Martínez Cuesta, Leo Souliotis, Daniel Roythorne and 
 Week | Title | Activity | Date and Time | Materials | Trainer
 :---:|:-----:|:--------:|:----:|:---------:|:----:
 0 | Getting ready | preparation | before start | [Introduction and installations](notebooks/week0_materials.ipynb) | all
-1 | Troubleshooting software installations | preparation | Mon 18/01/2021 3-4pm GMT | - | all
-1 | Basic Python concepts and functions | Lecture | Mon 18/01/2021 4-5pm GMT | Under construction | SMC
+1 | Troubleshooting software installations | preparation | Mon 18/01/2021 3-4pm GMT | [Introduction and installations](notebooks/week0_materials.ipynb) | all
+1 | Basic Python concepts and functions | Lecture | Mon 18/01/2021 4-5pm GMT | [Materials](notebooks/week1_lecture.ipynb) | SMC
 1 | Basic Python concepts and functions | Recap | Fri 22/01/2021 3-4pm GMT | Under construction | SMC
 2 | Data handling | Lecture | Mon 25/01/2021 4-5pm GMT | Under construction | SMC
 2 | Data handling | Recap | Fri 29/01/2021 3-4pm GMT | Under construction | SMC
