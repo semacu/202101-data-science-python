@@ -16,22 +16,22 @@ Gabriella Rustici, Sergio Martínez Cuesta, Leo Souliotis, Daniel Roythorne and 
 
 ### Course structure and links
 
-Week | Title | Activity | Date and Time | Materials | Trainer
-:---:|:-----:|:--------:|:----:|:---------:|:----:
-0 | Getting ready | preparation | before start | [Introduction and installations](notebooks/week0_materials.ipynb) | all
-1 | Troubleshooting software installations | preparation | Mon 18/01/2021 3-4pm GMT | [Introduction and installations](notebooks/week0_materials.ipynb) | all
-1 | Basic Python concepts and functions | Lecture | Mon 18/01/2021 4-5pm GMT | [Materials](notebooks/week1_lecture.ipynb) | SMC
-1 | Basic Python concepts and functions | Recap | Fri 22/01/2021 3-4pm GMT | [Solutions](notebooks/week1_recap.ipynb) | SMC
-2 | Data handling | Lecture | Mon 25/01/2021 4-5pm GMT | [Materials](notebooks/week2_lecture.ipynb) | SMC
-2 | Data handling | Recap | Fri 29/01/2021 3-4pm GMT | Under construction | SMC
-3 | Data visualisation | Lecture | Mon 01/02/2021 4-5pm GMT | Under construction | LS
-3 | Data visualisation | Recap | Fri 05/02/2021 3-4pm GMT | Under construction | LS
-4 | Data analysis and modelling | Lecture | Mon 08/02/2021 4-5pm GMT | Under construction | LS
-4 | Data analysis and modelling | Recap | Fri 12/02/2021 3-4pm GMT | Under construction | LS
-5 | Introduction to machine learning - part 1 | Lecture | Mon 15/02/2021 4-5pm GMT | Under construction | DR
-5 | Introduction to machine learning - part 1 | Recap | Fri 19/02/2021 3-4pm GMT | Under construction | DR
-6 | Introduction to machine learning - part 2 | Lecture | Mon 22/02/2021 4-5pm GMT | Under construction | DR
-6 | Introduction to machine learning - part 2 | Recap | Fri 26/02/2021 3-4pm GMT | Under construction | DR
+Week | Title | Activity | Date | Time | Materials | Trainer
+:---:|:-----:|:--------:|:----:|:----:|:---------:|:-------:
+0 | Getting ready | preparation | before start | before start | [Introduction and installations](notebooks/week0_materials.ipynb) | all
+1 | Troubleshooting software installations | preparation | Mon 18/01/2021 | 3-4pm GMT | [Introduction and installations](notebooks/week0_materials.ipynb) | all
+1 | Basic Python concepts and functions | Lecture | Mon 18/01/2021 | 4-5pm GMT | [Materials](notebooks/week1_lecture.ipynb) | SMC
+1 | Basic Python concepts and functions | Recap | Fri 22/01/2021 | 3-4pm GMT | [Solutions](notebooks/week1_recap.ipynb) | SMC
+2 | Data handling | Lecture | Mon 25/01/2021 | 4-5pm GMT | [Materials](notebooks/week2_lecture.ipynb) | SMC
+2 | Data handling | Recap | Fri 29/01/2021 | 3-4pm GMT | Under construction | SMC
+3 | Data visualisation | Lecture | Mon 01/02/2021 | 4-5pm GMT | Under construction | LS
+3 | Data visualisation | Recap | Fri 05/02/2021 | 3-4pm GMT | Under construction | LS
+4 | Data analysis and modelling | Lecture | Mon 08/02/2021 | 4-5pm GMT | Under construction | LS
+4 | Data analysis and modelling | Recap | Fri 12/02/2021 | 3-4pm GMT | Under construction | LS
+5 | Introduction to machine learning - part 1 | Lecture | Mon 15/02/2021 | 4-5pm GMT | Under construction | DR
+5 | Introduction to machine learning - part 1 | Recap | Fri 19/02/2021 | 3-4pm GMT | Under construction | DR
+6 | Introduction to machine learning - part 2 | Lecture | Mon 22/02/2021 | 4-5pm GMT | Under construction | DR
+6 | Introduction to machine learning - part 2 | Recap | Fri 26/02/2021 | 3-4pm GMT | Under construction | DR
 
 
 ### References
