@@ -25,7 +25,7 @@ Week | Title | Activity | Date | Time | Materials | Trainer
 2 | Data handling | Lecture | Mon 25/01/2021 | 4-5pm GMT | [Materials](notebooks/week2_lecture.ipynb) | SMC
 2 | Data handling | Recap | Fri 29/01/2021 | 3-4pm GMT | [Solutions](notebooks/week2_recap.ipynb) | SMC
 3 | Data visualisation | Lecture | Mon 01/02/2021 | 4-5pm GMT | [Materials](notebooks/week3_lecture.ipynb) | LS
-3 | Data visualisation | Recap | Fri 05/02/2021 | 3-4pm GMT | [Materials](notebooks/week3_recap.ipynb) | LS
+3 | Data visualisation | Recap | Fri 05/02/2021 | 3-4pm GMT | [Solutions](notebooks/week3_recap.ipynb) | LS
 4 | Data analysis and modelling | Lecture | Mon 08/02/2021 | 4-5pm GMT | [Materials](notebooks/week4_lecture.ipynb) | LS
 4 | Data analysis and modelling | Recap | Fri 12/02/2021 | 3-4pm GMT | Under construction | LS
 5 | Introduction to machine learning - part 1 | Lecture | Mon 15/02/2021 | 4-5pm GMT | Under construction | DR
