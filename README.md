@@ -28,7 +28,7 @@ Week | Title | Activity | Date | Time | Materials | Trainer
 3 | Data visualisation | Recap | Fri 05/02/2021 | 3-4pm GMT | [Solutions](notebooks/week3_recap.ipynb) | LS
 4 | Data analysis and modelling | Lecture | Mon 08/02/2021 | 4-5pm GMT | [Materials](notebooks/week4_lecture.ipynb) | LS
 4 | Data analysis and modelling | Recap | Fri 12/02/2021 | 3-4pm GMT | [Solutions](notebooks/week4_solution.ipynb) | LS
-5 | Introduction to machine learning - part 1 | Lecture | Mon 15/02/2021 | 4-5pm GMT | Under construction | DR
+5 | Introduction to machine learning - part 1 | Lecture | Mon 15/02/2021 | 4-5pm GMT | [Materials](notebooks/week5_lecture.ipynb) | DR
 5 | Introduction to machine learning - part 1 | Recap | Fri 19/02/2021 | 3-4pm GMT | Under construction | DR
 6 | Introduction to machine learning - part 2 | Lecture | Mon 22/02/2021 | 4-5pm GMT | Under construction | DR
 6 | Introduction to machine learning - part 2 | Recap | Fri 26/02/2021 | 3-4pm GMT | Under construction | DR
