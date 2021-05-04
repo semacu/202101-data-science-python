@@ -11,7 +11,7 @@ Online training course run by the Data Science Academy, AstraZeneca, Cambridge (
 
 ### Trainers
 
-Gabriella Rustici, Sergio Martínez Cuesta, Leo Souliotis, Daniel Roythorne and Caterina Darcy
+Gabriella Rustici, Sergio Martínez Cuesta, Leo Souliotis, Daniel Roythorne, Samuel Lewis and Caterina Darcy
 
 
 ### Course structure and links
